@@ -1,5 +1,3 @@
-# 4hv.forum
-
 <div align="center">
     <img src="logo.png?raw=true" alt="4hv.forum Logo" height="140" />
     <h3>A full-featured forum application built with Ruby on Rails</h3>
