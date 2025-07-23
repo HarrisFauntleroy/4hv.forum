@@ -1,25 +1,10 @@
 # 4hv.forum
 
 <div align="center">
-    <img src="public/images/logo.png?raw=true" alt="4hv.forum Logo" height="140" />
+    <img src="logo.png?raw=true" alt="4hv.forum Logo" height="140" />
     <h3>A full-featured forum application built with Ruby on Rails</h3>
     <p>Modern forum software designed for engaged communities and meaningful discussions.</p>
 </div>
-
-<p align="center">
-    <a href="https://github.com/HarrisFauntleroy/4hv.forum/actions">
-        <img alt="Build Status" src="https://img.shields.io/github/checks-status/HarrisFauntleroy/4hv.forum/main">
-    </a>
-    <a href="/LICENSE.md">
-        <img alt="License: MIT" src="https://img.shields.io/github/license/HarrisFauntleroy/4hv.forum">
-    </a>
-    <a href="https://github.com/HarrisFauntleroy/4hv.forum/commits">
-        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/HarrisFauntleroy/4hv.forum">
-    </a>
-    <a href="https://github.com/HarrisFauntleroy/4hv.forum/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/HarrisFauntleroy/4hv.forum">
-    </a>
-</p>
 
 ## ✨ Features
 
